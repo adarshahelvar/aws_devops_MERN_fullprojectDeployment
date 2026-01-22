@@ -101,7 +101,7 @@ const Footer = () => {
                   </span>
                   Address:
                 </h6>
-                <p className="mb-0">Shimogga, Karnataka</p>
+                <p className="mb-0">Shivamogga, Karnataka</p>
               </ListGroupItem>
               <ListGroupItem className="ps-0 border-0 d-flex aligin-items-center gap-3">
                 <h6 className="mb-0 d-flex align-items-center gap-2">
